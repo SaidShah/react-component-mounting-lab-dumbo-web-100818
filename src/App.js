@@ -20,8 +20,6 @@ componentDidMount() {
 
 
 
-
-
   // No need to modify anything in render or the class methods below
   // Unless, of course, you're curious about how it all works
   render() {

@@ -27,6 +27,7 @@ class Timer extends Component {
     return (
       <section className="Timer" style={{background: color}}>
 
+
         <h1>{ time }</h1>
         <button onClick={ this.stopClock }>Stop</button>
         <aside className="mountText">Mounted</aside>
